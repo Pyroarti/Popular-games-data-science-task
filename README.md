@@ -1,2 +1,2 @@
-# Uppgift_1
+# Data science task
 ITHS
